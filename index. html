@@ -1,16 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meta Quest Affiliate</title>
+  <title>My Meta Affiliate Page</title>
 </head>
-<body style="font-family: Arial; text-align: center; padding: 50px;">
-  <h1>Get Your Meta Quest 3</h1>
-  <p>Click below to shop the official Meta store:</p>
-  <a href="YOUR_META_AFFILIATE_LINK" 
-     style="display: inline-block; padding: 15px 25px; background: #0066ff; color: white; text-decoration: none; border-radius: 8px; font-size: 18px;">
-     Buy Now
-  </a>
+<body>
+  <h1>Welcome!</h1>
+  <p>Click below to get your Meta Quest:</p>
+
+  <a href="https://www.meta.com/quest/quest-3s/" target="_blank">Buy Meta Quest</a>
+
 </body>
 </html>
